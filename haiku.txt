@@ -1,0 +1,3 @@
+Embracing git tools.
+Collaborate and succeed.
+Avoid merge conflicts.
